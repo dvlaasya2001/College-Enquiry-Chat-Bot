@@ -18,6 +18,24 @@
  Azure Static web service is also used to deploy full stack web apps to Azure from a code repository.<br/>
  The below link directs to the project(static web app)<br/>
  https://calm-grass-0ae3bb410.1.azurestaticapps.net <br/>
+ <br/>
+Here are few questions one can ask with the chat bot<br/>
+documents for admission through managemnt quota?<br/>
+documents for admission through kcet?<br/>
+placement statistics?<br/>
+eligibility for mca?<br/>
+eligibility for mba?<br/>
+courses offered for post graduation?<br/>
+what is mission?<br/>
+what is vision?<br/>
+engineering courses?<br/>
+scholarships?<br/>
+collegetimings?<br/>
+placements?<br/>
+results?<br/>
+facilities?<br/>
+
+ 
  
  
  
