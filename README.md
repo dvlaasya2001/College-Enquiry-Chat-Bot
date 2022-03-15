@@ -28,12 +28,9 @@ eligibility for mba?<br/>
 courses offered for post graduation?<br/>
 what is mission?<br/>
 what is vision?<br/>
-engineering courses?<br/>
-scholarships?<br/>
-collegetimings?<br/>
-placements?<br/>
-results?<br/>
-facilities?<br/>
+Here is the link to view the demo of the project<br/>
+
+
 
  
  
